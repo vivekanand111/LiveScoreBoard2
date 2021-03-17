@@ -1,0 +1,11 @@
+<div class="container jumbotron">
+  <div fxFlex>
+    <img src="/assets/images/logo.png" alt="Logo">
+  </div>
+</div>
+<mat-toolbar color="primary">
+  <a mat-button routerLink="/livematches" routerLinkActive="active"><span class="fa fa-home fa-lg"></span> LiveMatches</a>
+  <a mat-button routerLink="/prevmatches" routerLinkActive="active"><span class="fa fa-info fa-lg"></span> PreviousMatches</a>
+  <span class="flex-spacer"></span>
+  <a mat-button (click)="openLoginForm()"><span class="fa fa-sign-in fa-lg"></span> Admin</a>
+</mat-toolbar>

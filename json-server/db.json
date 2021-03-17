@@ -1,0 +1,100 @@
+{
+  "matches": [
+    {
+      "teama": "India",
+      "imagea": "images/India.png",
+      "teamb": "Pakistan",
+      "imageb": "images/Pakistan.png",
+      "date": "2020-08-05T22:25:09.100Z",
+      "location": "Hyderabad",
+      "winner": "Team1",
+      "live": false,
+      "matchType": "T20-international",
+      "battingteam": "Team1",
+      "status": "Ind won by 5 wickets",
+      "aruns": 85,
+      "aovers": 15,
+      "awickets": 5,
+      "bruns": 83,
+      "bovers": 17,
+      "bwickets": 10,
+      "adata": [
+        21,
+        38,
+        61,
+        85
+      ],
+      "bdata": [
+        20,
+        33,
+        57,
+        83
+      ],
+      "id": 1
+    },
+    {
+      "teama": "England",
+      "imagea": "images/England.png",
+      "teamb": "India",
+      "imageb": "images/India.png",
+      "date": "2020-08-07T16:28:59.200Z",
+      "location": "Hyderabad",
+      "winner": "Team2",
+      "live": false,
+      "matchType": "T20-international",
+      "battingteam": "Both Completed",
+      "status": "India won by 6 runs",
+      "aruns": 161,
+      "aovers": 20,
+      "awickets": 8,
+      "bruns": 167,
+      "bovers": 20,
+      "bwickets": 7,
+      "adata": [
+        41,
+        87,
+        125,
+        161
+      ],
+      "bdata": [
+        45,
+        90,
+        128,
+        167
+      ],
+      "id": 2
+    },
+    {
+      "teama": "Australia",
+      "imagea": "images/Australia.png",
+      "teamb": "Pakistan",
+      "imageb": "images/Pakistan.png",
+      "date": "2020-08-08T19:09:00.900Z",
+      "location": "Nor city",
+      "winner": "Team2",
+      "live": false,
+      "matchType": "T20-international",
+      "battingteam": "Both Completed",
+      "status": "PAK won by 5 run",
+      "aruns": 87,
+      "aovers": 20,
+      "awickets": 4,
+      "bruns": 92,
+      "bovers": 20,
+      "bwickets": 4,
+      "adata": [
+        20,
+        35,
+        46,
+        87
+      ],
+      "bdata": [
+        18,
+        42,
+        66,
+        92
+      ],
+      "id": 3
+    }
+  ]
+}
